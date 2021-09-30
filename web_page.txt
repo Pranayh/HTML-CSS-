@@ -1,0 +1,28 @@
+<html>
+<head><title> pranay </title>
+
+<link rel="stylesheet" type="text/css"
+href="css/y.css">
+<style>
+
+ p{ color:white;
+}
+body{background-image: url("w7.jpg");
+color;
+}
+</style>
+</head>
+
+<h1 
+style="color:white;">
+Hello Pranay </h1>
+<body style="border:white solid; 
+color:white;
+ margin-top:80px;
+">
+
+My name is Pranay <br>
+welcome to my website 
+<p>India is my Country</p>
+</body>
+</html>
